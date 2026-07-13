@@ -20,7 +20,8 @@ you can drop `w2g` in a folder and it stays portable.
 ## Dependencies
 
 - **Go 1.26+** to build.
-- **yt-dlp** and **ffmpeg**, only for the `download` command. Put them on your
+- **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** and **[ffmpeg](https://www.ffmpeg.org/)**, only for the `download`
+  command. Put them on your
   `PATH`, or point the CLI at them (see [Configuration](#configuration)).
 
 If `ffmpeg` is missing, downloads still work: you get the best available audio
