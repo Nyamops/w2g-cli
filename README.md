@@ -1,8 +1,19 @@
+<div align="center">
+
 # w2g — Watch2Gether CLI
 
 A small command-line client for [Watch2Gether](https://w2g.tv), written in Go.
 Sign in, list your rooms and their playlists, export them, and download the
 audio from the YouTube links with `yt-dlp` and `ffmpeg`.
+
+[![build](https://img.shields.io/github/actions/workflow/status/Nyamops/w2g-cli/ci.yml?branch=master)](https://github.com/Nyamops/w2g-cli/actions/workflows/ci.yml)
+[![release](https://img.shields.io/github/v/release/Nyamops/w2g-cli)](https://github.com/Nyamops/w2g-cli/releases)
+[![go version](https://img.shields.io/github/go-mod/go-version/Nyamops/w2g-cli)](go.mod)
+[![license](https://img.shields.io/github/license/Nyamops/w2g-cli)](LICENSE)
+[![contributors](https://img.shields.io/github/contributors/Nyamops/w2g-cli)](https://github.com/Nyamops/w2g-cli/graphs/contributors)
+
+
+</div>
 
 ## Install
 
